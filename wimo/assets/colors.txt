@@ -1,0 +1,36 @@
+
+        "color": "#242f3e" //dark blue
+
+        "color": "#746855" //dark brown
+
+        "color": "#242f3e" deep dark blue
+
+        "color": "#d59563" // light brown
+ 
+        "color": "#d59563" // deep light brown
+
+        "color": "#263c3f" // deep sea blue
+
+        "color": "#6b9a76" // green
+
+        "color": "#38414e" // blue
+
+        "color": "#212a37" // black blue
+
+        "color": "#9ca5b3" // light blue
+
+        "color": "#746855" // brown
+
+        "color": "#1f2835" // very dark blue
+
+        "color": "#f3d19c" // very light brown
+
+        "color": "#2f3948" //...
+
+        "color": "#d59563"
+  
+        "color": "#17263c"
+
+        "color": "#515c6d"
+
+        "color": "#17263c"

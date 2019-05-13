@@ -1,0 +1,9 @@
+export const LOGOUT = 'LOGOUT';
+export const TOGGLE_MODAL = 'TOGGLE_MODAL';
+export const CHECK_ADMIN = 'CHECK_ADMIN';
+export const CREATE_USER = 'CREATE_USER';
+export const SET_ORDER = 'SET_ORDER';
+export const ENTER_ORDER = 'ENTER_ORDER';
+export const GET_ORDERS = 'GET_ORDERS';
+export const UPDATE_LOCATION = 'UPDATE_LOCATION';
+export const TOGGLE_THEME = 'TOGGLE_THEME';

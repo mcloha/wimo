@@ -6,8 +6,6 @@ import store from './src/store/';
 
 console.disableYellowBox = true;
 
-console.log(Navigator);
-
 class App extends Component {
   componentWillMount() {
     StatusBar.setHidden(true);
